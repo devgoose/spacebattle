@@ -25,6 +25,8 @@ is designed in Processing.
 There are three camera modes, switched with the keys 1: default, 2: boid, 3: game
 
 On default mode, the simulation runs as normal and you can move the camera around. Several keys also control boid movement parameters and these are printed to the console so you know what they are.
+
+```
 W/S: Accelerate forward/backward
 A/D: Accelerate left/right
 E/Q: Accelerate up/down
@@ -45,6 +47,8 @@ A/D: Yaw left/right
 LEFT/RIGHT: Roll left/right
 UP/DOWN: Pitch up/down (inverted)
 SPACE: Hold to shoot
+```
+
 The ship's rotational velocity will decelerate automatically, but its forward velocity does not (because it's in space.)
 The ship acts as an object just like all the boids. Every boid in the scene will try to target you if it can. You can
 destroy boids by shooting them as well.
