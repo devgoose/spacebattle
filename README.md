@@ -55,7 +55,7 @@ destroy boids by shooting them as well.
 
 ## Video demonstration
 
-https://www.youtube.com/watch?v=WmY4zTw1Bcw&feature=youtu.be
+https://youtu.be/WmY4zTw1Bcw?t=243
 
 | Time | Feature                              |
 | ---- | ------------------------------------ |
